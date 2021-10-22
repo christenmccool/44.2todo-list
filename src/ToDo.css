@@ -1,0 +1,25 @@
+.ToDo {
+  margin: 10px;
+  font-size: 30px;
+}
+
+.ToDo-icon {
+  margin-left: 15px;
+  font-size: 25px;
+}
+
+.ToDo-high {
+  font-weight: bold;
+}
+
+.ToDo-medium {
+  font-weight: normal;
+}
+
+.ToDo-low {
+  font-weight: lighter;
+}
+
+.ToDo-complete {
+  text-decoration: line-through;
+}

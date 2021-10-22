@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ToDoForm"
+  >
+    <form
+      class="ToDoForm-form"
+    >
+      <div
+        class="ToDoForm-group"
+      >
+        <label
+          for="task"
+        >
+          Task:
+        </label>
+        <input
+          id="task"
+          name="task"
+          required=""
+          type="text"
+          value=""
+        />
+        <select
+          id="priority"
+          name="priority"
+          required=""
+        >
+          <option
+            disabled=""
+            value=""
+          >
+            Select priority
+          </option>
+          <option
+            value="low"
+          >
+            Low
+          </option>
+          <option
+            value="medium"
+          >
+            Medium
+          </option>
+          <option
+            value="high"
+          >
+            High
+          </option>
+        </select>
+      </div>
+      <div
+        class="ToDoForm-group"
+      >
+        <button>
+          Save
+        </button>
+      </div>
+    </form>
+  </div>
+</DocumentFragment>
+`;

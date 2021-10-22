@@ -1,0 +1,41 @@
+.EditToDoForm {
+  margin: 0 40px;
+  padding: 10px;
+  /* border: 2px solid grey;
+  background-color: lightgrey; */
+  border-radius: 5px;
+}
+
+.EditToDoForm-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.EditToDoForm label {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.EditToDoForm input {
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 3px;
+  width: 60%;
+}
+
+.EditToDoForm select {
+  padding: 5px;
+  margin-left: 20px;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+.EditToDoForm button {
+  margin: 0 0 0 20px;
+  padding: 5px 10px;
+  font-size: 20px;
+  border-radius: 3px;
+  color: black;
+  background-color: white;
+}
